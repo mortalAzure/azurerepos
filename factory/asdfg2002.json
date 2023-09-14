@@ -1,0 +1,9 @@
+{
+	"name": "asdfg2002",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6321c8bb-6a46-48d3-bb21-29a04ce7dbf6",
+		"tenantId": "90cec3a2-5e23-4017-b3e5-4f9fff3822a7"
+	}
+}
